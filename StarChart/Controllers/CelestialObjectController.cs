@@ -84,7 +84,7 @@ namespace StarChart.Controllers
 
             celestialObject.OrbitalPeriod = cObject.OrbitalPeriod;
             celestialObject.OrbitedObjectId = cObject.OrbitedObjectId;
-            celestialObject.Name = celestialObject.Name;
+            celestialObject.Name = cObject.Name;
 
             _context.CelestialObjects.Update(celestialObject);
             _context.SaveChanges();
