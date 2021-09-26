@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: StarChart, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\5.0.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.DefaultItems.targets(189,5): warning NETSDK1071: A PackageReference to 'Microsoft.AspNetCore.All' specified a Version of `2.1.1`. Specifying the version of this package is not recommended. For more information, see https://aka.ms/sdkimplicitrefs
+1>StarChart -> C:\Users\nelli\OneDrive\Desktop\AspNetCore-StarChartAPI\StarChart\bin\Debug\netcoreapp2.1\StarChart.dll
+1>Done building project "StarChart.csproj".
+2>------ Build started: Project: StarChartTests, Configuration: Debug Any CPU ------
+2>C:\Program Files\dotnet\sdk\5.0.300\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.DefaultItems.targets(189,5): warning NETSDK1071: A PackageReference to 'Microsoft.AspNetCore.All' specified a Version of `2.1.1`. Specifying the version of this package is not recommended. For more information, see https://aka.ms/sdkimplicitrefs
+2>StarChartTests -> C:\Users\nelli\OneDrive\Desktop\AspNetCore-StarChartAPI\StarChartTests\bin\Debug\netcoreapp2.1\StarChartTests.dll
+2>Done building project "StarChartTests.csproj".
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
